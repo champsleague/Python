@@ -6,9 +6,11 @@ print(exact_num)
 guess = int(exact_num)
 
 if guess == number : 
-    print("correct")
+    print("correct")  # correct
 else :
-    print("wrong")
+    print("wrong")   # wrong
+
+   
 
 
 
